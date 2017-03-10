@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DatabaseHelper</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- -->
+    <string name="title_note">Title note</string>
+    <string name="content">Content</string>
+    <string name="title_activity_note">Create Note</string>
+</resources>
